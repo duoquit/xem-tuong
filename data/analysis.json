@@ -1,0 +1,117 @@
+{
+  "face_regions":
+  [
+      {
+          "name":"eyebrows",
+          "features":[
+              {
+                  "name":"Straight",
+                  "label":"thẳng",
+                  "analysis":"Thông thường với sự kiên trì và dũng cảm tuyệt vời. Người có lông mày rậm thẳng thường là người có ý chí mạnh mẽ, can đảm và nghiêm khắc. Người có lông mày mỏng thẳng thường là người thông minh, tài giỏi và sắc sảo.."
+
+
+              },
+              {
+                  "name":"Arch",
+                  "label":"Vòng cung",
+                  "analysis":"Năng nổ, không ngại khó, dũng cảm, tự tin đổi mới. Nhưng đôi khi có thể cứng đầu."
+              },
+              {
+                  "name":"Circle",
+                  "label":"tròn",
+                  "analysis":"Nhẹ nhàng, thân thiện và chu đáo, thường có mối quan hệ tốt với người khác. Có cảm xúc mạnh mẽ hơn với nghệ thuật, nhưng đôi khi sẽ xúc động và duy tâm trong cuộc sống thực."
+              }
+          ]
+      },
+      {
+          "name":"eyes",
+          "features":[
+              {
+                  "name":"Small",
+                  "label":"nhỏ",
+                  "analysis":"Lý trí hơn, phù hợp hơn với nghiên cứu khoa học. Có chủ kiến của riêng mình, không dễ bị ảnh hưởng bởi người khác."
+              },
+              {
+                  "name":"Slit",
+                  "label":"híp",
+                  "analysis":"Often with good appearance higher intelligence quotient. But sometimes may be suspicious to other things."
+              },
+              {
+                  "name":"Big",
+                  "label":"to",
+                  "analysis":"Kind and compassionate, can be good friends to talk with. Good understanding of movie and arts, sometime overwhelmed by emotions."
+              }
+          ]
+      },
+      {
+          "name":"face",
+          "features":[
+              {
+                  "name":"Triangle",
+                  "label":"tam giác",
+                  "analysis":"Be strict with others as well as themselves, do things carefully. They may seems to be not close to others. "
+              },
+              {
+                  "name":"Oval",
+                  "label":"trái xoan",
+                  "analysis":"Có nhiều khả năng có sự cải thiện tốt hơn trong sự nghiệp của họ. Họ cũng tiêu tiền nhiều hơn và quan tâm đến chất lượng cuộc sống."
+              },
+              {
+                  "name":"Square",
+                  "label":"vuông",
+                  "analysis":"Hoạt bát, kiên quyết, dứt khoát và hết sức quan tâm đến những người họ thích, nhưng đôi khi lại thăng tiến một cách mù quáng."
+              },
+              {
+                  "name":"Circle",
+                  "label":"tròn",
+                  "analysis":"Tốt bụng, thân thiện và thông cảm. Thường có mối quan hệ tốt với bạn bè. Nhiều khả năng bị hấp dẫn bởi khác."
+
+              }
+          ]
+      },
+      {
+          "name":"mouth",
+          "features":[
+              {
+                  "name":"Small",
+                  "label":"nhỏ",
+                  "analysis":"Tính cách hướng nội và bảo thủ hơn. Họ thường thua thiệt khi gặp khó khăn."
+
+              },
+              {
+                  "name":"Medium",
+                  "label":"vừa",
+                  "analysis":"Có mối quan hệ tốt với những người khác và là loại phổ biến. Là sự may mắn cho cả sự nghiệp và tài lộc."
+
+              },
+              {
+                  "name":"Thick",
+                  "label":"dày",
+                  "analysis":"Đam mê và ấm áp, nhấn mạnh vào các kích thích giác quan, làm mọi việc một cách thiết thực và dễ bực bội, và ít sử dụng thủ thuật."
+
+              }
+          ]
+      },
+      {
+          "name":"nose",
+          "features":[
+              {
+                  "name":"Wide",
+                  "label":"rộng",
+                  "analysis":"Quyết đoán, năng động, có dũng khí và tài năng, với một chút tâm lý đầu cơ. Có đầu óc tốt và sẵn sàng làm việc chăm chỉ, nhưng có lòng tự trọng mạnh mẽ và quyền lực đáng kể, tình bạn rộng rãi và tình yêu dành cho người, không tiếc công sức theo đuổi sự giàu có."
+
+              },
+              {
+                  "name":"Long",
+                  "label":"dài",
+                  "analysis":"Người có mũi dài có khả năng tư duy sâu sắc, nhưng lại hay suy nghĩ nhiều và chần chừ. Tôi không thích giãi bày tâm sự. Tôi chú ý hơn đến việc bồi bổ tinh thần. Tôi có nhiều sở thích nhưng khá bảo thủ. Tôi ổn định và cô đơn."
+              },
+              {
+                  "name":"Small",
+                  "label":"nhỏ",
+                  "analysis":"Người có mũi nhỏ là người chu đáo, nhạy cảm, tính tình bảo thủ, ôn hòa, ngại hành động, ít tham vọng, đến tuổi trung niên tương đối bết bát. Đàn ông phải làm việc chăm chỉ hơn trong công việc, còn phụ nữ thì hơi chậm trễ trong hôn nhân."
+              }
+          ]
+      }
+  ]
+}
